@@ -5,4 +5,5 @@
 ### 2. Revenue and Total cost
 ![image](https://user-images.githubusercontent.com/53226036/172613555-cb4ce7e6-5b50-42e7-8f28-ebce23d60aed.png)
 ### 3. Revenue by Items
-![image](https://user-images.githubusercontent.com/53226036/172613671-a5be7857-de23-49df-932c-c4ee6a51301b.png)
+![image](https://user-images.githubusercontent.com/53226036/172613810-8952f551-b075-41b3-b0c0-caad1d94f688.png)
+
